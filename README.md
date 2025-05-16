@@ -1,5 +1,5 @@
 # **Minicurso Analise de Dados com Python - Hashtag Treinamentos**
-Projeto realizado durante o minicurso **"Análise de Dados com Python** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
+Projeto realizado durante o minicurso **"Análise de Dados com Python"** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 
 
 ## **Contexto:** 
@@ -31,18 +31,25 @@ Em uma determinada empresa de cartão de crédito, o diretor solicitou uma anál
 ### 1. Categoria do Cartão
 - **A grande maioria dos cancelamentos** ocorre com clientes que possuem cartão da categoria Blue
 
+    (Sugestão: Melhorar os benefícios dessa categoria)
+
 ### 2. Número de Produtos Contratados
 - **Quanto mais produtos** o cliente tem, menor é a taxa de cancelamento
+
+    (Sugestão: Buscar implementar uma política de incentivo ao uso do cartão)
 
 ### 3. Transações Financeiras
 - **Cancelamentos tendem a ocorrer quando:**
     - **Menos transações** (< 60 nos últimos 12 meses)
-    - **Valores menores** (< $3.200).
+    - **Valores menores** (< $3.200)
+
+    (Sugestão: Procurar por políticas que aumentam o engagamento)
 
 ### 4. Contatos com o Serviço de Atendimento
 - **Cancelamentos são proporcionais ao número de contatos**:  
   - Clientes que entraram em contato **6 vezes** tiveram **100% de cancelamento**. 
 
+    (Sugestão: Investigar a causa dos contatos)
 
 ## **Novas implementações / Melhorias:**
 
@@ -67,4 +74,5 @@ Em uma determinada empresa de cartão de crédito, o diretor solicitou uma anál
 [Curso: PROJETO 2](https://dlp.hashtagtreinamentos.com/python/minicurso/minicurso-analise-de-dados/inscricao?curso=python&origemurl=hashtag_yt_org_minipython_tLFT40Xrhq0&utm_campaign=programacao&utm_content=python%2Fminicurso%2Fminicurso-analise-de-dados%2Finscricao&conversion=lespy-May-25)
 
 [Base de Dados Original](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
 [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
